@@ -4,3 +4,4 @@
 - Git and Git Credential Manager
 - VS Code with Dev Containers
 - Docker Desktop on WSL2
+- Signed commits with an SSH key
